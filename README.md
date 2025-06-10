@@ -54,5 +54,5 @@ File is a pure python module (.py file)
 
 ## Requirements
 
-- Python **3.2** or higher (needed for argparse)
+- Python **3.2** or higher (needed for `argparse`)
 
