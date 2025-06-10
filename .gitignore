@@ -1,6 +1,9 @@
 # ignore any versioned python files like find_mod_v1.py, find_mod_v23.py, etc. 
 *_v[0-9]*.py
 
+# ignore coding walkthrough blog 
+*blog.md
+
 # python cache and OS-specific junk
 __pycache__/
 .DS_Store
